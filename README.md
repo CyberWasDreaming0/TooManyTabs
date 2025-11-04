@@ -1,39 +1,7 @@
-# Too Many Tabs - OneTab Alternative
+# Too Many Tabs 
 
 A modern, beautiful browser extension that consolidates all your open tabs into a single organized interface. Perfect for reducing memory usage, decluttering your browser, and managing your tab chaos!
 
-## ✨ Features
-
-### 🖱️ Context Menu Integration
-- **Display Too Many Tabs** - Open full interface in new tab
-- **Save All Tabs** - Consolidate all tabs from current window
-- **Save This Tab** - Cherry-pick individual tabs
-
-### 🎨 Beautiful Interface
-- Modern gradient design with smooth animations
-- Full-page interface (no small popup!)
-- Responsive layout for all screen sizes
-- Automatic dark mode support
-
-### 💾 Smart Tab Management
-- **Multi-select** - Select specific tabs to restore
-- **Restore All** - Open entire sessions at once
-- **Restore Individual** - Open one tab at a time
-- **Search & Filter** - Find tabs across all sessions
-- **Smart Timestamps** - "2h ago", "Just now", etc.
-
-### 📊 Live Stats
-- See total sessions saved
-- Track tabs saved count
-- Visual session indicators
-
-### 🔒 Privacy First
-- All data stored locally
-- No cloud sync
-- No tracking
-- No analytics
-
-## 🚀 Quick Start
 
 ### Installation
 
@@ -114,7 +82,7 @@ TooManyTabs/
 
 ## 🎨 Screenshots
 
-> Beautiful, modern interface with gradient cards, smooth animations, and intuitive design
+> TODO: Add later
 
 ## 🏗️ Development
 
@@ -144,7 +112,7 @@ MIT License - feel free to use this project for any purpose.
 
 Inspired by [OneTab](https://www.one-tab.com/) - created with ❤️ for tab hoarders everywhere.
 
-## 🌟 Features Coming Soon
+## 🌟 Features Coming Soon only if i see good response
 
 - [ ] Export/Import sessions (JSON)
 - [ ] Custom session labels
